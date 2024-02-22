@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56433400000",
+    "project_id": "gor-project-b3aba",
+    "storage_bucket": "gor-project-b3aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56433400000:android:17fc8ff5e5f5ccafbcf525",
+        "android_client_info": {
+          "package_name": "com.example.gor_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3GhkrXlE-OiuwXtbcte37Y9AgJzr9StI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56433400000:android:9d58cf97575d4651bcf525",
+        "android_client_info": {
+          "package_name": "com.example.peer_bullying"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3GhkrXlE-OiuwXtbcte37Y9AgJzr9StI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
